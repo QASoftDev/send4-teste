@@ -1,14 +1,14 @@
 # send4-teste
-Efetuar o clone ou download do projeto.
+1. Efetuar o clone ou download do projeto.
 
-Entra na pasta send4 usando o comando cd send4.
+2. Entra na pasta send4 usando o comando cd send4.
 
-No terminal , na pasta send 4 , executar o comando "npm install".
+3. No terminal , na pasta send 4 , executar o comando "npm install".
 
-Aguardar a finalização da instalação dos módulos pelo npm.
+4. Aguardar a finalização da instalação dos módulos pelo npm.
 
-Executar o comando "npx cypress open".
+5. Executar o comando "npx cypress open".
 
-Aguardar o inicio da janela de testes.
+6. Aguardar o inicio da janela de testes.
 
-Clicar no botão Run all specs.
+7. Clicar no botão Run all specs.
