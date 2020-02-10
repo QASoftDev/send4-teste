@@ -11,4 +11,4 @@
 
 6. Aguardar o inicio da janela de testes.
 
-7. Clicar no botão Run all specs.
+7. Clicar no botão "Run all specs".
