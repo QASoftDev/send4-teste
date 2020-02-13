@@ -65,8 +65,6 @@ const comentario = 'Teste executado de devolução'
         cy.get('#address-neighborhood').should('have.value','Cajuru')
         cy.get('#address-city').should('have.value','Curitiba')
         cy.get('#address-state').should('have.value','PR')
-        //cy.get('#address-complement').type('ap 02')
-        //cy.get('#address-complement').should('have.value','ap 02')
 
 
         cy.get('#customer__back')
