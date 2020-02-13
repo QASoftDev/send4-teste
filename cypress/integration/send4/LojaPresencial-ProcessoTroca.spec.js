@@ -84,7 +84,7 @@ const comentario = 'Teste executado de devolução'
         cy.get('#seller-purchase-date').should('have.value',dataCompra)
 
         cy.get('#seller-invoice-upload').should('exist')
-        cy.get('#seller-invoice-upload').uploadFile(caminhoImageNF, 'image/jpeg');
+        cy.get('#seller-invoice-upload').uploadFile(caminhoImageNF, 'image/jpeg')
 
         cy.wait(2000)
 
